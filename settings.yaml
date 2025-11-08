@@ -1,7 +1,7 @@
 apiVersion: v1alpha1
 kind: Setting
 metadata:
-  name: go-halo-theme-setting
+  name: blog-halo-theme-setting
 spec:
   forms:
     - group: global

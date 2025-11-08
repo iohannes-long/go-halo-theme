@@ -1,7 +1,7 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: go-halo-theme
+  name: blog-halo-theme
 spec:
   displayName: Go
   author:
@@ -9,13 +9,13 @@ spec:
     website: https://www.gotab.cn
   description: 一款简约的个人技术博客主题
   logo: https://www.gotab.cn/icons/logo.svg
-  homepage: https://github.com/dengxiwang/go-halo-theme#readme
-  repo: https://github.com/dengxiwang/go-halo-theme
-  issues: https://github.com/dengxiwang/go-halo-theme/issues
-  settingName: "go-halo-theme-setting"
-  configMapName: "go-halo-theme-configMap"
+  homepage: https://github.com/dengxiwang/blog-halo-theme#readme
+  repo: https://github.com/dengxiwang/blog-halo-theme
+  issues: https://github.com/dengxiwang/blog-halo-theme/issues
+  settingName: "blog-halo-theme-setting"
+  configMapName: "blog-halo-theme-configMap"
   version: "2.5.3"
   requires: ">=2.0.0"
   license:
     - name: "GPL-3.0"
-      url: "https://github.com/dengxiwang/go-halo-theme/blob/main/LICENSE"
+      url: "https://github.com/dengxiwang/blog-halo-theme/blob/main/LICENSE"
