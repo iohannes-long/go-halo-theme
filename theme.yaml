@@ -3,7 +3,7 @@ kind: Theme
 metadata:
   name: blog-halo-theme
 spec:
-  displayName: Go
+  displayName: Blog
   author:
     name: dengxiwang
     website: https://www.gotab.cn

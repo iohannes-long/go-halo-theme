@@ -1,12 +1,10 @@
-# GO-HALO-THEME
+# blog-halo-theme
 
 一款简约的个人技术博客主题
 
 ## 在线预览
-[https://blog.gotab.cn](https://blog.gotab.cn)
+[https://iohanneslong.com](https://iohanneslong.com)
 
-## 好物推广
-有需要云服务器的可以看一下：[高性价比云服务器](https://www.rainyun.com/gotab_)，我也一直在用，感谢您的支持！
 
 ## 使用方式
 
@@ -17,20 +15,14 @@
 
 3. 如果安装了[应用市场](https://www.halo.run/store/apps/app-VYJbF)插件，可以直接在应用市场中搜索`Go`并安装。
 
-## 插件支持
+## 支持
+- 代码高亮显示
+- markdown数学公式显示
 
-为了获得更好的体验，你还可以安装以下插件（如果需要）：
 
-- highlight.js 代码高亮：<https://halo.run/store/apps/app-sqpgf>
-
-## 打赏项目
-
-感谢您对本项目的喜爱，您的打赏是对本项目最好的支持！
-
-<div style="display:flex;flex-wrap:wrap;gap:24px;">
-
-<img src="https://www.gotab.cn/images/wxpay.JPG" alt="微信支付二维码" style="height:260px;">
-
-<img src="https://www.gotab.cn/images/alipay.JPG" alt="支付宝二维码" style="height:260px;">
-
-</div>
+## 编译
+```bash
+npm install
+npm run build
+npm run serve
+```
